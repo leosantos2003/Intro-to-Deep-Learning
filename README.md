@@ -14,7 +14,7 @@ The focus here is on the practical implementation of neural networks to solve a 
  
 * `lesson_4`: improving performance with extra capacity or early stopping.
  
-* `lesson_5`: adding special layersto prevent overfitting and stabilize training.
+* `lesson_5`: adding special layers to prevent overfitting and stabilize training.
  
 * `lesson_6`: applying deep learning to another common task.
 
