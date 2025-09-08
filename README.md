@@ -6,17 +6,17 @@ This repository documents the learnings from completing the [Intro to Deep Learn
 
 The focus here is on the practical implementation of neural networks to solve a classification problem, using the TensorFlow framework and its high-level API, Keras. The goal is to learn how to build, train, and optimize dense (fully-connected) neural network architectures.
 
-* `lesson_1`: linear units.
+* `lesson_1`: a single neuron; linear units.
 
-* `lesson_2`: adding hidden layers to the network.
+* `lesson_2`: deep neural networks; adding hidden layers to the network.
 
-* `lesson_3`: using Keras and Tensorflow to train the first neural network.
+* `lesson_3`: stochastic gradient descent; using Keras and Tensorflow to train the first neural network.
  
-* `lesson_4`: improving performance with extra capacity or early stopping.
+* `lesson_4`: overfitting and underfitting; improving performance with extra capacity or early stopping.
  
-* `lesson_5`: adding special layers to prevent overfitting and stabilize training.
+* `lesson_5`: dropout and batch normalization; adding special layers to prevent overfitting and stabilize training.
  
-* `lesson_6`: applying deep learning to another common task.
+* `lesson_6`: binary classification; applying deep learning to another common task.
 
 ## License
 
