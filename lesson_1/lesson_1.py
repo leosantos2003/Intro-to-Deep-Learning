@@ -51,7 +51,7 @@ w_simple, b_simple = model_simple.weights
 plt.title("Weight: {:0.2f}\nBias: {:0.2f}".format(w_simple.numpy()[0][0], b_simple.numpy()[0]))
 
 # --- Save graphic as png file ---
-print("\nSaving gaphic as 'grafico_reta_neuronio.png'...")
+print("\nSaving gaphic as 'linear_neuron_graphic.png'...")
 plt.savefig('linear_neuron_graphic.png')
 print("Graphic succesfully saved!\n")
 
