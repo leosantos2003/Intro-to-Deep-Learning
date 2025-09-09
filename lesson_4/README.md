@@ -1,30 +1,27 @@
-# Lesson 5
+# Lesson 4
 
-`lesson_5`: underfitting and overfitting; fine-tuning the model for better performance.
+`lesson_4`: abc
 
 <div style="display: flex; justify-content: center;">
 <div class="texto-titulo">
       
 ## Graphic 1:
-* Shows the relations between Model Performance and its respective Decision Tree Size.
-* It's important to determine the tree size for the lowest Mean Absolute Error. A tree too big or too low may not be so precise in most cases. 
+* abc 
 
 </div>
-      <img style="width: 48%;" alt="mae_vs_leaf_nodes" src="https://github.com/user-attachments/assets/bd408789-c4c8-4938-9bc1-15068a811dea" />
+      <img width="1000" height="600" alt="loss_vs_val_loss_1" src="https://github.com/user-attachments/assets/88140202-c22a-4adf-8dee-23cc5fd575d2" />
 <div class="texto-titulo">
       
 ## Graphic 2:
-* Comparison between Prediction Values and Actual Values when using the best tree size.
-* Choosing the optimal tree size caused the predictions to be very precise, given that the Mean Absolute Error was the lowest.
+* abc
 
 </div>
-      <img style="width: 48%;" alt="final_model_comparison" src="https://github.com/user-attachments/assets/fc185c9f-569c-4fbe-936f-8fd38687d637" />
+      <img width="1000" height="600" alt="loss_vs_val_loss_2" src="https://github.com/user-attachments/assets/3a4011bf-9ec9-43fc-9831-4a00062c9733" />
 <div class="texto-titulo">
       
 ## Graphic 3:
-* Shows the relations between Model Performance and its respective Decision Tree Size.
-* It's important to determine the tree size for the lowest Mean Absolute Error. A tree too big or too low may not be so precise in most cases. 
+* abc 
 
 </div>
-      <img style="width: 48%;" alt="mae_vs_leaf_nodes" src="https://github.com/user-attachments/assets/bd408789-c4c8-4938-9bc1-15068a811dea" />
+      <img width="1000" height="600" alt="loss_vs_val_loss_3" src="https://github.com/user-attachments/assets/b0faf6d1-8b64-4f4c-84f8-aa3e1fb91c0b" />
 </div>
