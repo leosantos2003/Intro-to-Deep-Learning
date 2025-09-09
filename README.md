@@ -8,7 +8,7 @@ The focus here is on the practical implementation of neural networks to solve a 
 
 * `lesson_1`: a single neuron; linear units. [see graphic](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_1)
 
-* `lesson_2`: deep neural networks; adding hidden layers to the network.
+* `lesson_2`: deep neural networks; adding hidden layers to the network. [see graphic](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_2)
 
 * `lesson_3`: stochastic gradient descent; using Keras and Tensorflow to train the first neural network.
  
