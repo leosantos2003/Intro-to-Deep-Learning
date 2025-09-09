@@ -9,7 +9,7 @@
 * It introducec nonlinearity. If we didn't use activation functions (or used a linear function), no matter how many layers the network had, it would behave like a simple linear regression.
 
 ## Graphic 1:
-* ReLU stands for Rectified Linear Unit.
+* The graphic shows the "ReLU" Activation Function. "ReLU" stands for "Rectified Linear Unit".
   * If the input (x) is positive, the output is the input itself.
   * If the input (x) is negative or zero, the output is zero.
 * ReLU is extremely popular because it is simple, fast to compute, and solves important problems in training deep networks, all with an incredibly basic rule.
