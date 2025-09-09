@@ -69,14 +69,11 @@ history_df = pd.DataFrame(history.history)
 plt.figure(figsize=(10, 6))
 
 history_df['loss'].plot(label='Training Loss')
-
 plt.title('Training Loss per Epoch')
 plt.ylabel('Loss (MAE)')
 plt.xlabel('Epoch')
 plt.legend()
 plt.grid(True, linestyle='--', alpha=0.6)
-
 plt.savefig('training_loss_graphic.png')
 print("\nGraphic succesfully saved as 'training_loss_graphic.png'")
-
 # plt.show()
