@@ -26,7 +26,9 @@
 <div class="texto-titulo">
       
 ## Graphic 3:
-* abc 
+* EarlyStopping: training is stopped before completing 50 epochs.
+* It monitors val_loss and when it notices that the model is no longer improving on the validation data for a certain number of epochs (patience=5), it stops training.
+* This prevents overfitting by simply stopping the process before the model starts to "memorize" too much. It's one of the most effective and straightforward ways to find a good balance, resulting in a model that generalizes well to new data.
 
 </div>
       <img style="width: 48%;" width="1000" height="600" alt="loss_vs_val_loss_3" src="https://github.com/user-attachments/assets/b0faf6d1-8b64-4f4c-84f8-aa3e1fb91c0b" />
