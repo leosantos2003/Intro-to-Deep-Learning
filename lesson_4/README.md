@@ -17,8 +17,8 @@
 ## Graphic 2:
 * The model's capacity was dramatically increased by adding two hidden layers with hundreds of neurons and the relu activation function.
 * A classic overfitting example:
-      * The training curve (`loss`, blue) continues to fall consistently throughout the 50 epochs, reaching a very low value.
-      * The validation curve (`val_loss`, orange) initially drops, but then stops improving and starts rising.
+  * The training curve (`loss`, blue) continues to fall consistently throughout the 50 epochs, reaching a very low value.
+  * The validation curve (`val_loss`, orange) initially drops, but then stops improving and starts rising.
 * The model is "too good" at training, to the point that it became bad when predicting new data.
 
 </div>
