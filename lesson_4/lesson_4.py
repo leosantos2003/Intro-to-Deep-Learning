@@ -94,7 +94,7 @@ print("Graphic succesfully saved as 'loss_vs_val_loss_1.png'")
 # plt.show()
 
 # --- Adding some capacity to the network. ---
-# --- Addinh three hidden layers with 128 units each. ---
+# --- Adding three hidden layers with 128 units each. ---
 
 model = keras.Sequential([
     layers.Dense(128, activation='relu', input_shape=input_shape),
