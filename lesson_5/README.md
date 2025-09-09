@@ -21,6 +21,6 @@
 * abc
 
 </div>
-      <img width="1000" height="600" alt="loss_vs_val_loss_3" src="https://github.com/user-attachments/assets/bc430c02-84cb-4410-aee4-87ff45c43050" />
+      <img style="width: 48%;" width="1000" height="600" alt="loss_vs_val_loss_3" src="https://github.com/user-attachments/assets/bc430c02-84cb-4410-aee4-87ff45c43050" />
 
 </div>
