@@ -6,7 +6,7 @@
 <div class="texto-titulo">
       
 ## Graphic 1:
-* The graphic shows an untrained model wich set the weights as random, small values, and biases with zero; it's a standard practice for any neuron.
+* The graphic shows an untrained model which set the weights as random, small values, and biases with zero; it's a standard practice for any neuron.
 * Now we see that a simple neuron is a linear function.
 * The weights will be different each time the script is run.
 
