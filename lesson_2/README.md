@@ -6,7 +6,7 @@
 <div class="texto-titulo">
 
 * The Activation Function acts as a "decision filter" at the end of each neuron.
-* It introducec nonlinearity. If we didn't use activation functions (or used a linear function), no matter how many layers the network had, it would behave like a simple linear regression.
+* It introduces nonlinearity. If we didn't use activation functions (or used a linear function), no matter how many layers the network had, it would behave like a simple linear regression.
 
 ## Graphic 1:
 * The graphic shows the "ReLU" Activation Function. "ReLU" stands for "Rectified Linear Unit".
