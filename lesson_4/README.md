@@ -1,19 +1,25 @@
 # Lesson 4
 
-`lesson_4`: abc
+`lesson_4`: overfitting and underfitting; improving performance with extra capacity or early stopping.
 
 <div style="display: flex; justify-content: center;">
 <div class="texto-titulo">
       
 ## Graphic 1:
-* abc 
+* Simple linear model with low capacity.
+* The model learned what little it could very quickly and was unable to improve further.
+* Both training and validation losses are high because the model performs poorly in both scenarios.
 
 </div>
       <img style="width: 48%;" width="1000" height="600" alt="loss_vs_val_loss_1" src="https://github.com/user-attachments/assets/88140202-c22a-4adf-8dee-23cc5fd575d2" />
 <div class="texto-titulo">
       
 ## Graphic 2:
-* abc
+* The model's capacity was dramatically increased by adding two hidden layers with hundreds of neurons and the relu activation function.
+* A classic overfitting example:
+      * The training curve (`loss`, blue) continues to fall consistently throughout the 50 epochs, reaching a very low value.
+      * The validation curve (`val_loss`, orange) initially drops, but then stops improving and starts rising.
+* The model is "too good" at training, to the point that it became bad when predicting new data.
 
 </div>
       <img style="width: 48%;" width="1000" height="600" alt="loss_vs_val_loss_2" src="https://github.com/user-attachments/assets/3a4011bf-9ec9-43fc-9831-4a00062c9733" />
