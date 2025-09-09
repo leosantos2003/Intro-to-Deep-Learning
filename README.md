@@ -12,7 +12,7 @@ The focus here is on the practical implementation of neural networks to solve a 
 
 * `lesson_3`: stochastic gradient descent; using Keras and Tensorflow to train the first neural network. [see graphic](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_3)
  
-* `lesson_4`: overfitting and underfitting; improving performance with extra capacity or early stopping. [see graphics](https://github.com/leosantos2003/Intro-to-Deep-Learning/blob/main/lesson_4/README.md)
+* `lesson_4`: overfitting and underfitting; improving performance with extra capacity or early stopping. [see graphics](https://github.com/leosantos2003/Intro-to-Deep-Learning/blob/main/lesson_4)
  
 * `lesson_5`: dropout and batch normalization; adding special layers to prevent overfitting and stabilize training.
  
