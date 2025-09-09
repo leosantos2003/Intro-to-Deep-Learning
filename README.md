@@ -10,7 +10,7 @@ The focus here is on the practical implementation of neural networks to solve a 
 
 * `lesson_2`: deep neural networks; adding hidden layers to the network. [see graphic](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_2)
 
-* `lesson_3`: stochastic gradient descent; using Keras and Tensorflow to train the first neural network.
+* `lesson_3`: stochastic gradient descent; using Keras and Tensorflow to train the first neural network. [see graphic](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_3)
  
 * `lesson_4`: overfitting and underfitting; improving performance with extra capacity or early stopping.
  
