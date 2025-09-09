@@ -15,5 +15,5 @@
 * ReLU is extremely popular because it is simple, fast to compute, and solves important problems in training deep networks, all with an incredibly basic rule.
 
 </div>
-      <img width="640" height="480" alt="activation_graphic" src="https://github.com/user-attachments/assets/5fce2889-6b84-434d-9c1d-e9bad4583be8" />
+      <img style="width: 48%;" width="640" height="480" alt="activation_graphic" src="https://github.com/user-attachments/assets/5fce2889-6b84-434d-9c1d-e9bad4583be8" />
 </div>
