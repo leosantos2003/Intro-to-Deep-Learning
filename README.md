@@ -6,7 +6,7 @@ This repository documents the learnings from completing the [Intro to Deep Learn
 
 The focus here is on the practical implementation of neural networks to solve a classification problem, using the TensorFlow framework and its high-level API, Keras. The goal is to learn how to build, train, and optimize dense (fully-connected) neural network architectures.
 
-* `lesson_1`: a single neuron; linear units.
+* `lesson_1`: a single neuron; linear units. [see graphic](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_1)
 
 * `lesson_2`: deep neural networks; adding hidden layers to the network.
 
