@@ -15,5 +15,5 @@
 * abc
 
 </div>
-      <img width="1000" height="600" alt="accuracy" src="https://github.com/user-attachments/assets/d4a767f8-c214-4a70-ad9e-bb08cdf1093c" />
+      <img style="width: 48%;" width="1000" height="600" alt="accuracy" src="https://github.com/user-attachments/assets/d4a767f8-c214-4a70-ad9e-bb08cdf1093c" />
 </div>
