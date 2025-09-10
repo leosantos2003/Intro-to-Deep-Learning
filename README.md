@@ -14,7 +14,7 @@ The focus here is on the practical implementation of neural networks to solve a 
  
 * `lesson_4`: overfitting and underfitting; improving performance with extra capacity or early stopping. [see graphics](https://github.com/leosantos2003/Intro-to-Deep-Learning/blob/main/lesson_4)
  
-* `lesson_5`: dropout and batch normalization; adding special layers to prevent overfitting and stabilize training.
+* `lesson_5`: dropout and batch normalization; adding special layers to prevent overfitting and stabilize training. [see graphics](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_5)
  
 * `lesson_6`: binary classification; applying deep learning to another common task.
 
