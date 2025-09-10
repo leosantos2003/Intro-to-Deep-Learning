@@ -16,7 +16,7 @@ The focus here is on the practical implementation of neural networks to solve a 
  
 * `lesson_5`: dropout and batch normalization; adding special layers to prevent overfitting and stabilize training. [see graphics](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_5)
  
-* `lesson_6`: binary classification; applying deep learning to another common task.
+* `lesson_6`: binary classification; applying deep learning to another common task. [see graphics](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_6)
 
 ## License
 
