@@ -6,25 +6,26 @@ This repository documents the learnings from completing the [Intro to Deep Learn
 
 The focus here is on the practical implementation of neural networks to solve a classification problem, using the TensorFlow framework and its high-level API, Keras. The goal is to learn how to build, train, and optimize dense (fully-connected) neural network architectures.
 
+teste:
 ```mermaid
 graph TD
-    subgraph Fase de Indexação (Preparação do Conhecimento)
-        A[1. Ingestão de Dados<br>(Ex: Documentos PDF)] --> B(2. Chunking<br>Dividir em Pedaços);
-        B --> C(3. Embedding<br>Converter em Vetores);
-        C --> D[4. Indexação<br>(Armazenar em um Banco de Dados Vetorial)];
-    end
+subgraph Fase de Indexação (Preparação do Conhecimento)
+    A[1. Ingestão de Dados<br>(Ex: Documentos PDF)] --> B(2. Chunking<br>Dividir em Pedaços);
+    B --> C(3. Embedding<br>Converter em Vetores);
+    C --> D[4. Indexação<br>(Armazenar em um Banco de Dados Vetorial)];
+end
 
-    subgraph Fase de Recuperação e Geração (Em tempo real)
-        E[Pergunta do Usuário] --> F(5. Embedding da Pergunta);
-        F --> G{6. Recuperação<br>(Busca por Similaridade)};
-        D --> G;
-        G --> H(Contexto Relevante<br>+ Pergunta Original);
-        H --> I[7. Geração<br>(LLM formula a resposta)];
-        I --> J[Resposta Final];
-    end
+subgraph Fase de Recuperação e Geração (Em tempo real)
+    E[Pergunta do Usuário] --> F(5. Embedding da Pergunta);
+    F --> G{6. Recuperação<br>(Busca por Similaridade)};
+    D --> G;
+    G --> H(Contexto Relevante<br>+ Pergunta Original);
+    H --> I[7. Geração<br>(LLM formula a resposta)];
+    I --> J[Resposta Final];
+end
 
-    style D fill:#D6EAF8,stroke:#333,stroke-width:2px
-    style I fill:#D5F5E3,stroke:#333,stroke-width:2px
+style D fill:#D6EAF8,stroke:#333,stroke-width:2px
+style I fill:#D5F5E3,stroke:#333,stroke-width:2px
 ```
 
 * `lesson_1`: a single neuron; linear units. [see graphic](https://github.com/leosantos2003/Intro-to-Deep-Learning/tree/main/lesson_1)
