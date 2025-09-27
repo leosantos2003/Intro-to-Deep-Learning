@@ -11,5 +11,5 @@
 * The weights will be different each time the script is run.
 
 </div>
-      <img style="width: 48%;" width="640" height="480" alt="linear_neuron_graphic" src="https://github.com/user-attachments/assets/d1ee2c6d-fbbc-484b-922d-2c653deb6c41" />
+      <img width="480" height="360" alt="linear_neuron_graphic" src="https://github.com/user-attachments/assets/d1ee2c6d-fbbc-484b-922d-2c653deb6c41" />
 </div>
