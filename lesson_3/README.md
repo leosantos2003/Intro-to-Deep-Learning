@@ -11,5 +11,5 @@
 * It stabilizes and becomes a nearly horizontal line at the end of training. At this point, the model has already learned the main pattern of the data and can no longer significantly improve.
 
 </div>
-      <img width="1000" height="600" alt="training_loss_graphic" src="https://github.com/user-attachments/assets/468f3a54-d6ff-4f6e-9594-adef06a8d923" />
+      <img width="500" height="300" alt="training_loss_graphic" src="https://github.com/user-attachments/assets/468f3a54-d6ff-4f6e-9594-adef06a8d923" />
 </div>
